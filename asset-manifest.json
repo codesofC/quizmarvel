@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/quizmarvel/static/css/main.755e4ee2.css",
-    "main.js": "/quizmarvel/static/js/main.043de700.js",
+    "main.js": "/quizmarvel/static/js/main.b158205d.js",
     "static/js/787.5b6cbfae.chunk.js": "/quizmarvel/static/js/787.5b6cbfae.chunk.js",
     "static/media/bg-noise-texture.png": "/quizmarvel/static/media/bg-noise-texture.78eacb5efbf473356f4a.png",
     "static/media/spiderman.png": "/quizmarvel/static/media/spiderman.54be21cf9a4177790824.png",
@@ -13,11 +13,11 @@
     "static/media/griffes-droit.png": "/quizmarvel/static/media/griffes-droit.085de5685b6a33d9f1da.png",
     "index.html": "/quizmarvel/index.html",
     "main.755e4ee2.css.map": "/quizmarvel/static/css/main.755e4ee2.css.map",
-    "main.043de700.js.map": "/quizmarvel/static/js/main.043de700.js.map",
+    "main.b158205d.js.map": "/quizmarvel/static/js/main.b158205d.js.map",
     "787.5b6cbfae.chunk.js.map": "/quizmarvel/static/js/787.5b6cbfae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.755e4ee2.css",
-    "static/js/main.043de700.js"
+    "static/js/main.b158205d.js"
   ]
 }
