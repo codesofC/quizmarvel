@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quizmarvel/static/css/main.755e4ee2.css",
+    "main.js": "/quizmarvel/static/js/main.69d5d290.js",
+    "static/js/787.5b6cbfae.chunk.js": "/quizmarvel/static/js/787.5b6cbfae.chunk.js",
+    "static/media/bg-noise-texture.png": "/quizmarvel/static/media/bg-noise-texture.78eacb5efbf473356f4a.png",
+    "static/media/spiderman.png": "/quizmarvel/static/media/spiderman.54be21cf9a4177790824.png",
+    "static/media/xmen.png": "/quizmarvel/static/media/xmen.294b1d93cdb93b8fd135.png",
+    "static/media/deadpool.png": "/quizmarvel/static/media/deadpool.c9d280ad1150746a65c7.png",
+    "static/media/ironman.png": "/quizmarvel/static/media/ironman.48dc4dc5dc767ebd4261.png",
+    "static/media/wolverine.png": "/quizmarvel/static/media/wolverine.a67e427ce210b5240a1e.png",
+    "static/media/griffes-gauche.png": "/quizmarvel/static/media/griffes-gauche.37577397b8ba87adde33.png",
+    "static/media/griffes-droit.png": "/quizmarvel/static/media/griffes-droit.085de5685b6a33d9f1da.png",
+    "index.html": "/quizmarvel/index.html",
+    "main.755e4ee2.css.map": "/quizmarvel/static/css/main.755e4ee2.css.map",
+    "main.69d5d290.js.map": "/quizmarvel/static/js/main.69d5d290.js.map",
+    "787.5b6cbfae.chunk.js.map": "/quizmarvel/static/js/787.5b6cbfae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.755e4ee2.css",
+    "static/js/main.69d5d290.js"
+  ]
+}
